@@ -492,4 +492,13 @@ footer li {
   .timeline li .timeline-panel::after {
     top: 31px;
   }
+
+  .gallery .container .row .col a img{
+    padding: 5px 20px;
+  }
+
+  .rsvp .container {
+    padding: 5px 20px;
+  }
+
 }
